@@ -73,8 +73,65 @@
         </NuxtLink>
       </div>
     </div>
-  </section>
 
+  <div class="bg-zinc-950 text-white">
+  <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-5xl lg:px-8">
+    <h2 class="sr-only">Products</h2>
+
+    <div class="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 xl:gap-x-8">
+      <a href="#" class="group">
+        <img src="https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-01.jpg" alt="Tall slender porcelain bottle with natural clay textured body and cork stopper." class="aspect-square w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]">
+        <h3 class="mt-4 text-sm text-gray-400">Earthen Bottle</h3>
+        <p class="mt-1 text-lg font-medium text-gray-600">$48</p>
+      </a>
+      <a href="#" class="group">
+        <img src="https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-02.jpg" alt="Olive drab green insulated bottle with flared screw lid and flat top." class="aspect-square w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]">
+        <h3 class="mt-4 text-sm text-gray-400">Nomad Tumbler</h3>
+        <p class="mt-1 text-lg font-medium text-gray-600">$35</p>
+      </a>
+      <a href="#" class="group">
+        <img src="https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg" alt="Person using a pen to cross a task off a productivity paper card." class="aspect-square w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]">
+        <h3 class="mt-4 text-sm text-gray-400">Focus Paper Refill</h3>
+        <p class="mt-1 text-lg font-medium text-gray-600">$89</p>
+      </a>
+      <a href="#" class="group">
+        <img src="https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-04.jpg" alt="Hand holding black machined steel mechanical pencil with brass tip and top." class="aspect-square w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]">
+        <h3 class="mt-4 text-sm text-gray-400">Machined Mechanical Pencil</h3>
+        <p class="mt-1 text-lg font-medium text-gray-600">$35</p>
+      </a>
+      <a href="#" class="group">
+        <img src="https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-02.jpg" alt="Olive drab green insulated bottle with flared screw lid and flat top." class="aspect-square w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]">
+        <h3 class="mt-4 text-sm text-gray-400">Nomad Tumbler</h3>
+        <p class="mt-1 text-lg font-medium text-gray-600">$35</p>
+      </a>
+      <a href="#" class="group">
+        <img src="https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg" alt="Person using a pen to cross a task off a productivity paper card." class="aspect-square w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]">
+        <h3 class="mt-4 text-sm text-gray-400">Focus Paper Refill</h3>
+        <p class="mt-1 text-lg font-medium text-gray-600">$89</p>
+      </a>
+
+    </div>
+  </div>
+</div>
+
+
+  </section>
+  <footer class="w-full flex flex-col p-10 bg-zinc-950 text-white">
+    <div class="mx-auto">
+      <div class="text-center">
+        <Icon name="uil:user" style="color: black" />
+        <p class="font-bold">ACME Industries Ltd.<br />Providing reliable tech since 1992</p>
+        <p>Copyright © 2024 - All right reserved</p>
+      </div>
+      <nav class="mx-auto">
+        <div class="flex gap-4 justify-around">
+          <Icon name="uil:twitter" style="color: white" />
+          <Icon name="uil:youtube" style="color: white" />
+          <Icon name="uil:facebook" style="color: white" />
+        </div>
+      </nav>
+    </div>
+  </footer>
 
 
 
