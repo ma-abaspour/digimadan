@@ -27,7 +27,7 @@
         <div class="flex flex-col sm:flex-row justify-between items-center sm:items-start pb-32">
             <!-- Copyright text -->
             <span class="text-sm text-gray-500 dark:text-gray-400 text-center sm:text-left">
-                © 2023
+                © 2025
                 <NuxtLink to="https://flowbite.com/" class="hover:underline">دیجی معدن™</NuxtLink>. تمامی حقوق محفوظ است.
             </span>
 
