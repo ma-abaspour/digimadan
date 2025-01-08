@@ -10,7 +10,7 @@
 
   <section class="relative bg-white dark:bg-zinc-950 dark:text-white py-20 px-6 lg:py-32 lg:px-8 min-h-screen">
     <!-- Hematite Page Content -->
-    <div class="max-w-7xl mx-auto">
+    <div class="max-w-5xl mx-auto">
       <!-- Page Title -->
       <div class="text-right mb-12">
         <h1 class="text-3xl font-bold text-gray-900 dark:text-gray-100 sm:text-4xl" dir="rtl">
