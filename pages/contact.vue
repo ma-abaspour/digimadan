@@ -45,7 +45,7 @@
                     d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" />
                 </svg>
               </span>
-              <h2 class="text-base font-medium text-gray-800 dark:text-white">ارتباط با فروش</h2>
+              <h2 class="text-base font-medium text-gray-800 dark:text-white">ارتباط با ایمیل</h2>
             </div>
             <p class="mt-2 text-sm text-gray-500 dark:text-gray-400">ارتباط با تیم دیجی‌معدن</p>
             <p class="mt-2 text-sm text-blue-500 dark:text-blue-400">info@digimadan.com</p>
