@@ -17,11 +17,11 @@
         راهکارهای پیشرفته برای مدیریت، آنالیز و بهینه‌سازی فرآیندهای معدنی. به ما بپیوندید و آینده معدن را متحول کنید.
       </p>
       <div class="mt-8 flex justify-center space-x-4">
-        <NuxtLink to="/"
+        <NuxtLink to="/products"
           class="bg-white text-zinc-950 font-medium text-sm py-3 px-6 rounded-lg shadow-lg hover:bg-gray-100 transition">
           مشاهده محصولات
         </NuxtLink>
-        <NuxtLink to="/"
+        <NuxtLink to="/about-us"
           class="bg-zinc-800 text-white font-medium text-sm py-3 px-6 rounded-lg shadow-lg hover:bg-zinc-700 transition">
           درباره ما
         </NuxtLink>

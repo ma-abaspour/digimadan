@@ -23,7 +23,7 @@
     </section>
 
     <section class="bg-white dark:bg-zinc-950" dir="rtl">
-      <div class="container px-6 py-12 max-w-7xl mx-auto">
+      <div class="container px-6 pt-12 max-w-7xl mx-auto">
         <div class="text-center">
           <p class="font-medium text-blue-500 dark:text-blue-400">تماس با ما</p>
 
@@ -90,7 +90,7 @@
     </section>
 
     <section class=" bg-white dark:bg-zinc-950" dir="rtl">
-      <div class="py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
+      <div class="py-8 lg:pt-16 px-4 mx-auto max-w-screen-md">
         <form action="#" class="space-y-8">
           <div>
             <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">ایمیل یا
@@ -119,9 +119,8 @@
       </div>
     </section>
 
+  </section>
 
     <Footer />
-
-  </section>
 </template>
 

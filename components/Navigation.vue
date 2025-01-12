@@ -11,6 +11,8 @@
         </div>
 
         <div class="text-sm font-bold text-zinc-950 dark:text-white">دیجی‌معدن</div>
+        <span
+          class="mb-4 ml-2 select-none rounded bg-zinc-800 px-1.5 py-0.5 text-[10px] font-medium text-zinc-50">آزمایشی</span>
       </NuxtLink>
 
       <!-- Navigation Links -->
