@@ -1,6 +1,6 @@
 
-<template>
 
+<template>
 
   <Navigation />
 
@@ -21,7 +21,7 @@
 
         <div class="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 xl:gap-x-8">
 
-          <NuxtLink to="#" class="group">
+          <NuxtLink to="/products/black-gypsum">
             <NuxtImg src="/black_gypsum.png"
               class="aspect-square w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]" />
             <h3 class="mt-4 text-lg font-semibold text-gray-400 text-right" dir="rtl">گچ سیاه</h3>
@@ -29,36 +29,14 @@
             </p>
           </NuxtLink>
 
-          <NuxtLink to="#" class="group">
+          <NuxtLink to="/products/hematite">
             <NuxtImg src="/raw_hematite.png"
               class="aspect-square w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]" />
             <h3 class="mt-4 text-lg font-semibold text-gray-400 text-right" dir="rtl">هماتیت</h3>
             <p class="mt-1 text-sm text-gray-500 text-right" dir="rtl">هماتیت خام برای استفاده در صنایع مختلف.</p>
           </NuxtLink>
 
-          <NuxtLink to="#" class="group">
-            <NuxtImg src="/raw_magnetite.png"
-              class="aspect-square w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]" />
-            <h3 class="mt-4 text-lg font-semibold text-gray-400 text-right" dir="rtl">مگنتیت</h3>
-            <p class="mt-1 text-sm text-gray-500 text-right" dir="rtl">مگنتیت خام برای کاربردهای صنعتی و علمی.</p>
-          </NuxtLink>
-
-          <NuxtLink to="#" class="group">
-            <NuxtImg src="/black_gypsum.png"
-              class="aspect-square w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]" />
-            <h3 class="mt-4 text-lg font-semibold text-gray-400 text-right" dir="rtl">گچ سیاه</h3>
-            <p class="mt-1 text-sm text-gray-500 text-right" dir="rtl">گچ سیاه با کیفیت بالا برای استفاده در ساخت و ساز.
-            </p>
-          </NuxtLink>
-
-          <NuxtLink to="#" class="group">
-            <NuxtImg src="/raw_hematite.png"
-              class="aspect-square w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]" />
-            <h3 class="mt-4 text-lg font-semibold text-gray-400 text-right" dir="rtl">هماتیت</h3>
-            <p class="mt-1 text-sm text-gray-500 text-right" dir="rtl">هماتیت خام برای استفاده در صنایع مختلف.</p>
-          </NuxtLink>
-
-          <NuxtLink to="#" class="group">
+          <NuxtLink to="/products/magnetite">
             <NuxtImg src="/raw_magnetite.png"
               class="aspect-square w-full rounded-lg bg-gray-200 object-cover group-hover:opacity-75 xl:aspect-[7/8]" />
             <h3 class="mt-4 text-lg font-semibold text-gray-400 text-right" dir="rtl">مگنتیت</h3>
