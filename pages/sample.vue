@@ -103,7 +103,7 @@
               تماس با ما
             </a>
             <!-- Support Option -->
-            <a href="/support"
+            <a href="/contact"
               class="flex items-center justify-center bg-green-500 text-white py-2 px-4 md:py-3 md:px-6 rounded-lg shadow-md hover:bg-green-600 transition text-sm font-medium"
               dir="rtl">
               پشتیبانی

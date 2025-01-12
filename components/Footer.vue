@@ -24,7 +24,7 @@
         <hr class="my-3 border-gray-200 sm:mx-auto dark:border-gray-700" />
 
         <!-- Bottom section with copyright and social links -->
-        <div class="flex flex-col sm:flex-row justify-between items-center sm:items-start pb-32">
+        <div class="flex flex-col sm:flex-row justify-between items-center sm:items-start pb-12">
             <!-- Copyright text -->
             <span class="text-sm text-gray-500 dark:text-gray-400 text-center sm:text-left">
                 © 2025
