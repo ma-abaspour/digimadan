@@ -4,9 +4,9 @@
     <div class="mx-auto flex w-full items-center justify-between md:max-w-7xl">
 
       <!-- Logo and Title -->
-      <NuxtLink to="/" class="relative flex items-center space-x-2">
-        <Icon name="local:digimadan-logo" style="color: white;" class="w-16 h-16"/>
-        <div class="text-sm font-bold text-zinc-950 dark:text-white">دیجی‌معدن</div>
+      <NuxtLink to="/" class="flex items-center">
+        <Icon name="local:digimadan-logo" class="w-12 h-16"/>
+        <div class="mr-2 text-sm font-bold text-zinc-950 dark:text-white">دیجی‌معدن</div>
         <span class="mb-4 select-none rounded bg-zinc-800 px-1.5 py-0.5 text-[10px] font-medium text-zinc-50">آزمایشی</span>
       </NuxtLink>
 
