@@ -5,14 +5,9 @@
 
       <!-- Logo and Title -->
       <NuxtLink to="/" class="relative flex items-center space-x-2">
-        <div class="relative h-6 w-6 bg-gray-300 rounded-full overflow-hidden">
-          <div class="absolute inset-0 bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 animate-spin-slow">
-          </div>
-        </div>
-
+        <Icon name="local:digimadan-logo" style="color: white;" class="w-16 h-16"/>
         <div class="text-sm font-bold text-zinc-950 dark:text-white">دیجی‌معدن</div>
-        <span
-          class="mb-4 ml-2 select-none rounded bg-zinc-800 px-1.5 py-0.5 text-[10px] font-medium text-zinc-50">آزمایشی</span>
+        <span class="mb-4 select-none rounded bg-zinc-800 px-1.5 py-0.5 text-[10px] font-medium text-zinc-50">آزمایشی</span>
       </NuxtLink>
 
       <!-- Navigation Links -->

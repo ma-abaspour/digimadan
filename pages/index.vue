@@ -21,7 +21,7 @@
           class="bg-white text-zinc-950 font-medium text-sm py-3 px-6 rounded-lg shadow-lg hover:bg-gray-100 transition">
           مشاهده محصولات
         </NuxtLink>
-        <NuxtLink to="/about-us"
+        <NuxtLink to="/contact"
           class="bg-zinc-800 text-white font-medium text-sm py-3 px-6 rounded-lg shadow-lg hover:bg-zinc-700 transition">
           درباره ما
         </NuxtLink>
@@ -94,21 +94,20 @@
           </div>
 
           <!-- Call-to-Action Button -->
-          <a href="#university"
+          <NuxtLink href="https://school.digimadan.com"
             class="inline-flex items-center px-8 py-3 text-sm font-semibold text-white bg-gradient-to-r from-green-500 to-green-600 rounded-full shadow-lg hover:from-green-600 hover:to-green-500 transform hover:scale-105 transition-transform duration-300">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24"
               stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
             </svg>
             ورود به دانشگاه
-          </a>
+          </NuxtLink>
         </div>
 
         <!-- Enhanced Community Card -->
         <div
           class="relative text-center px-10 pt-10 pb-8 bg-gray-100 dark:bg-gradient-to-br dark:from-gray-800 dark:to-gray-900 rounded-3xl shadow-2xl border border-gray-300 dark:border-gray-700 hover:shadow-3xl transition-shadow duration-300">
 
-          <!-- Header Icon (Fixed and Optimized) -->
           <div class="flex justify-center mb-4">
             <div class="bg-blue-600 text-white p-3 rounded-full shadow-lg">
               <!-- Optimized SVG Icon -->
@@ -137,14 +136,14 @@
           </div>
 
           <!-- Call-to-Action Button -->
-          <a href="#community"
+          <NuxtLink to="https://community.digimadan.com"
             class="inline-flex items-center px-8 py-3 text-sm font-semibold text-white bg-gradient-to-r from-blue-500 to-blue-600 rounded-full shadow-lg hover:from-blue-600 hover:to-blue-500 transform hover:scale-105 transition-transform duration-300">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24"
               stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h8m0 0l-4-4m4 4l-4 4" />
             </svg>
             درخواست عضویت
-          </a>
+          </NuxtLink>
         </div>
 
       </div>
